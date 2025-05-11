@@ -364,3 +364,70 @@ header{
     font-style: Britannic bold;
     
 }
+#slide{
+    background-color: orange;
+    margin-left: 530px;
+    border-radius: 25px;
+    font-size: large;
+    font-Style : bold; 
+    width : 200px;
+    height : 50px;
+}
+
+.S{
+    display: none;
+}
+#img6{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+    margin-left:20px;
+}
+#img7{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+    margin-left:50px;
+}
+#img8{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+    margin-left:50px;
+}
+#img9{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+    margin-left:50px;
+}
+#img10{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+    margin-left:50px;
+}
+#img6:hover{
+    transform:scale(1.1);
+}
+#img7:hover{
+    transform:scale(1.1);
+}
+#img8:hover{
+    transform:scale(1.1);
+}
+#img9:hover{
+    transform:scale(1.1);
+}
+#img10:hover{
+    transform:scale(1.1);
+}
+#input:hover{
+    transform:scale(1.1);
+}
+#button:hover{
+    transform:scale(1.1);
+}
+#slide:hover{
+    transform:scale(1.1);
+}
